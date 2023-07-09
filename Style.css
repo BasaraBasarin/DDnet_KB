@@ -1,0 +1,53 @@
+.Title {
+	text-align: center;
+	color: #ffffff;
+	font-size: 80px;
+	text-shadow: 2px 2px #4f545c;
+}
+
+.SubTitle {
+	text-align: center;
+	color: #ffffff;
+	font-size: 30px;
+	text-shadow: 2px 2px #4f545c;
+}
+
+.hd {
+	text-align: center;
+	color: #ffffff;
+	font-size: 20px;
+	text-shadow: 2px 2px #4f545c;
+}
+
+
+button {
+  padding: 0px 0px;
+  border: none;
+}
+
+.itext {
+	background-color: #4f545c;
+	padding: 4px 19px;
+	border-radius: 20px;
+	border: none;
+	color: #fff;
+}
+
+
+.xbutton {
+	cursor: pointer;
+	border-radius: 20px;
+	font-size: 14px;
+	padding: 2px 16px;
+	height: 32px;
+	border: none;
+	color: #fff;
+	background-color: #4f545c;
+}
+
+.color-change {
+	color: #303030;
+    transition: color 0s, 1s;;
+	font-size: 14px;
+}
+
