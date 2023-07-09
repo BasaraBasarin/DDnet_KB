@@ -1,2 +1,0 @@
-# DDnet_KB
-doe
